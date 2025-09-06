@@ -15,6 +15,8 @@
 ช่องว่าง (Space bar)
 
 📦 การติดตั้ง
+
+
 1. ติดตั้ง Python
 
 ดาวน์โหลดและติดตั้ง Python เวอร์ชัน 3.8 ขึ้นไป จาก:
@@ -100,7 +102,7 @@ python3 generate_password.py
 📺 Demo
 
 คุณสามารถดูการทำงานตัวอย่างได้จากลิงก์นี้
-👉 Demo
+👉 Demo : https://jam.dev/c/3911b148-ef8a-43fd-a003-e73f1233ad4c
 
 📜 License
 
